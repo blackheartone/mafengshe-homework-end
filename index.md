@@ -15,7 +15,7 @@
 ## 插件安装卸载
 **插件安装列如“ instant-markdown ”，打开vsc点击第四个（Ctrl+shift+X)在应用商店直接搜索“instant-markdown ”点击安装便可，想要卸载，同上步骤点击”instant-markdown ”右下的设置，点击卸载。**
 
-##VSCode中使用Git
+## VSCode中使用Git
 
 1.将代码放到码云
 
